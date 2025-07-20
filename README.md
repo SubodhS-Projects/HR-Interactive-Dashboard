@@ -32,6 +32,7 @@ This interactive Power BI dashboard provides a detailed view of workforce data t
 By answering these questions, HR leaders can make data-driven decisions to improve workforce planning, DEI initiatives, and organizational alignment.
 
 🛠️ Tools & Technologies
+
 Power BI Desktop
 Excel/CSV Data Source
 Slicers & Interactivity
