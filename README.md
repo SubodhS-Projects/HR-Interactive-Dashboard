@@ -89,12 +89,13 @@ With this dashboard, HR departments can:
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect
 
-Have feedback or want to collaborate?
+I'm actively exploring new opportunities and collaborations!
 
-📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/subodhshahare)  
-🌐 [Visit my portfolio](https://subodh-s.my.canva.site/home)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/subodhshahare)  
+- 🌐 [My Portfolio Website](https://subodh-s.my.canva.site/home)  
+- 📧 [Email](mailto:Subodh.shahare@gmail.com)
 
 
 
