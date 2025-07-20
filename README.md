@@ -10,6 +10,7 @@ https://subodh-s.my.canva.site/home
 www.linkedin.com/in/subodhshahare
 
 📌 Project Overview
+
 This interactive Power BI dashboard provides a detailed view of workforce data to help Human Resources and Leadership answer key strategic questions such as:
 ❓ What problems are we solving for the HR Department?
 👨‍💼 How are employees distributed across departments?
