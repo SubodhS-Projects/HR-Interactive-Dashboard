@@ -65,6 +65,7 @@ DEI Analysis-Track nationality counts and diversity percentages
 Religion Analysis-Understand religious representation for inclusive policies
 
 ✅ Interactivity
+
 Department slicer for focused analysis
 Interactive visuals that update based on filter selections
 
@@ -72,24 +73,39 @@ Dashboard Preview
 https://github.com/SubodhS-Projects/HR-Interactive-Dashboard/blob/main/Screenshot_HR%20Interactive%20Dashboard.png
 
 🎯 Business Impact
+
 With this dashboard, HR departments can:
+
 📊 Improve hiring strategies by identifying gaps by level or department
+
 🌐 Promote diversity and inclusion through nationality and religion insights
+
 🧠 Make informed decisions on promotions, recruitment, and training
+
 🏢 Understand location-wise spread for remote work or expansion planning
+
 ⚖️ Ensure gender equality through active monitoring
 
 🚀 How to Use
+
 Clone the repository
+
 Open HR Interactive Dashboard.pbix using Power BI Desktop
+
 Load the dataset or connect your own
+
 Use the filters and explore the insights
 
 📬 Contact
+
 Have feedback or want to collaborate?
+
 📧 Connect with me on LinkedIn 
+
 www.linkedin.com/in/subodhshahare
+
 🌐 Visit my portfolio 
+
 https://subodh-s.my.canva.site/home
 
 
