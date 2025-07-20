@@ -44,11 +44,14 @@ Custom Visualizations
 DAX (Data Analysis Expressions)
 
 📊 Dashboard Insights
+
 ✅ Core Metrics
 Active Employees: 80
+
 Total Locations: 19
 
 ✅ Visual Breakdown
+
 Section	Description
 Department Analysis-View employee distribution across IT, HR, Finance, Sales, Marketing
 Job Level Distribution-Understand how workforce is spread across Entry (49%), Mid (46%), and Senior (5%) levels
