@@ -37,7 +37,7 @@ Power BI Desktop
 
 Excel/CSV Data Source
 
-Slicers & Interactivity
+Interactive Slicers 
 
 Custom Visualizations
 
