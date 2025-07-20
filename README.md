@@ -29,9 +29,9 @@ By answering these questions, HR leaders can make **data-driven decisions** to i
 
 - **Power BI Desktop**
 - **CSV Data Source**
+- **Power Query Editor for Data Cleaning**
 - **DAX (Data Analysis Expressions)**
-- **Custom Visualizations**
-- **Slicers for Interactivity purpose**
+- **Slicers for Interactive Visualization purpose**
 
 ---
 
