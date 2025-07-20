@@ -53,10 +53,15 @@ Total Locations: 19
 ✅ Visual Breakdown
 
 Section	Description
+
 Department Analysis-View employee distribution across IT, HR, Finance, Sales, Marketing
+
 Job Level Distribution-Understand how workforce is spread across Entry (49%), Mid (46%), and Senior (5%) levels
+
 Gender Balance-Compare number of male and female employees
+
 DEI Analysis-Track nationality counts and diversity percentages
+
 Religion Analysis-Understand religious representation for inclusive policies
 
 ✅ Interactivity
