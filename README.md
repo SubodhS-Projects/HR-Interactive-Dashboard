@@ -12,7 +12,7 @@ A powerful Power BI dashboard designed to help HR departments visualize, analyze
 
 This interactive Power BI dashboard provides a **360° view of workforce data** to help Human Resources and Leadership answer key strategic questions such as:
 
-### ❓ What problems are we solving for the HR Department?
+###  What problems are we solving for the HR Department?
 - 👨‍💼 **How are employees distributed across departments?**
 - 🧑‍🔧 **Are we hiring more entry-level or experienced professionals?**
 - 👩‍👧 **Is there a gender balance across teams?**
@@ -28,10 +28,10 @@ By answering these questions, HR leaders can make **data-driven decisions** to i
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
 - **Excel/CSV Data Source**
+- **DAX (Data Analysis Expressions)**
 - **Custom Visualizations**
-- **Slicers & Interactivity**
+- **Slicers for Interactivity purpose**
 
 ---
 
@@ -54,7 +54,7 @@ By answering these questions, HR leaders can make **data-driven decisions** to i
 ### ✅ Interactivity
 - Department slicer for focused analysis
 - Interactive visuals that update based on filter selections
-- Drill-through-ready visual structure
+
 
 ---
 
@@ -69,16 +69,27 @@ With this dashboard, HR departments can:
 
 ---
 
-## 🔍 Future Enhancements
+## 📸 Dashboard Preview
 
-- 📅 Add trend analysis (e.g., employee growth over months/years)
-- 📈 Include KPIs like attrition rate, promotion rate, and headcount change
-- 📥 Integration with real-time HR systems like Workday or SAP
-- 📋 Detailed filters for role, experience, education, and performance
+![Dashboard Screenshot](./Assets/Dashboard%20Screenshot.png)
 
 ---
 
-## 📁 Repository Structure
+## 🚀 How to Use
+
+1. Clone the repository  
+2. Open `employee_dashboard.pbix` using Power BI Desktop  
+3. Load the dataset or connect your own  
+4. Use the filters and explore the insights
+
+---
+
+## 📬 Contact
+
+Have feedback or want to collaborate?
+
+📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/subodhshahare)  
+🌐 [Visit my portfolio](https://subodh-s.my.canva.site/home)
 
 
 
