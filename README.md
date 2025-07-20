@@ -71,7 +71,7 @@ With this dashboard, HR departments can:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./Assets/Dashboard%20Screenshot.png)
+![Dashboard Screenshot](https://github.com/SubodhS-Projects/HR-Interactive-Dashboard/blob/main/Screenshot_HR%20Interactive%20Dashboard.png)
 
 ---
 
