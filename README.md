@@ -41,6 +41,9 @@ Religion Analysis-Understand religious representation for inclusive policies
 Department slicer for focused analysis
 Interactive visuals that update based on filter selections
 
+Dashboard Preview
+https://github.com/SubodhS-Projects/HR-Interactive-Dashboard/blob/main/Screenshot_HR%20Interactive%20Dashboard.png
+
 🎯 Business Impact
 With this dashboard, HR departments can:
 📊 Improve hiring strategies by identifying gaps by level or department
