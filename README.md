@@ -37,6 +37,18 @@ By answering these questions, HR leaders can make **data-driven decisions** to i
 
 ---
 
+## ▶️ Getting Started
+
+### Prerequisites
+- Install **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)**
+
+### Steps to Explore
+1. Clone this repository or download it as ZIP
+2. Open `Product Data Analysis Dashboard.pbit` in Power BI Desktop
+3. Review the visuals and interact with filters
+
+---
+
 ## 📊 Dashboard Features
 
 ### ✅ Core Metrics
