@@ -28,7 +28,7 @@ By answering these questions, HR leaders can make **data-driven decisions** to i
 ## 🛠️ Tools & Technologies
 
 - **Power BI Desktop**
-- **Excel/CSV Data Source**
+- **CSV Data Source**
 - **DAX (Data Analysis Expressions)**
 - **Custom Visualizations**
 - **Slicers for Interactivity purpose**
