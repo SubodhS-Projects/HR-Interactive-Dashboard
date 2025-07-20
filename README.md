@@ -45,7 +45,6 @@ DAX (Data Analysis Expressions)
 
 📊 Dashboard Insights
 
-✅ Core Metrics
 Active Employees: 80
 
 Total Locations: 19
