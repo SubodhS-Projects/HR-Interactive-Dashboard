@@ -79,7 +79,7 @@ With this dashboard, HR departments can:
 
 1. Clone the repository  
 2. Open `HR Interactive Dashboard.pbix` using Power BI Desktop  
-3. Load the dataset or connect your own  
+3. Load the CSV dataset from repository 
 4. Use the filters and explore the insights
 
 ---
