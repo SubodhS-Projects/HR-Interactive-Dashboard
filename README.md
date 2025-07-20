@@ -44,7 +44,7 @@ By answering these questions, HR leaders can make **data-driven decisions** to i
 
 ### Steps to Explore
 1. Clone this repository or download it as ZIP
-2. Open `Product Data Analysis Dashboard.pbit` in Power BI Desktop
+2. Open `HR Interactive Dashboard.pbit` in Power BI Desktop
 3. Review the visuals and interact with filters
 
 ---
@@ -86,15 +86,6 @@ With this dashboard, HR departments can:
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/SubodhS-Projects/HR-Interactive-Dashboard/blob/main/Screenshot_HR%20Interactive%20Dashboard.png)
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository  
-2. Open `HR Interactive Dashboard.pbix` using Power BI Desktop  
-3. Load the CSV dataset from repository 
-4. Use the filters and explore the insights
 
 ---
 
