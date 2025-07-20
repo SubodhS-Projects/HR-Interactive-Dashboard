@@ -25,13 +25,15 @@ By answering these questions, HR leaders can make **data-driven decisions** to i
 
 ---
 
-## 🛠️ Resources,Tools & Technologies
+## 🛠️ Resources and Tools Used
 
-- **Power BI Desktop**
-- **CSV Data Source**
-- **Power Query Editor for Data Cleaning**
-- **DAX (Data Analysis Expressions)**
-- **Slicers for Interactive Visualization purpose**
+| Tool | Purpose |
+|------|---------|
+| **CSV** | Data source used |
+| **Power BI** | Building and visualizing the dashboard |
+| **Power Query Editor** | Cleaning and preparing the data |
+| **DAX** | Calculations and metrics inside Power BI |
+| **GitHub** | Storing and sharing the project online |
 
 ---
 
