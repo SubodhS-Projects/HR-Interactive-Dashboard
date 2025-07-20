@@ -68,6 +68,7 @@ Department slicer for focused analysis
 Interactive visuals that update based on filter selections
 
 Dashboard Preview
+
 https://github.com/SubodhS-Projects/HR-Interactive-Dashboard/blob/main/Screenshot_HR%20Interactive%20Dashboard.png
 
 🎯 Business Impact
