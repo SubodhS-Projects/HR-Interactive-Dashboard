@@ -1,5 +1,5 @@
 # HR-Interactive-Dashboard
-# 📊 Employee Interactive Dashboard
+# 📊 HR Interactive Dashboard
 
 A powerful Power BI dashboard designed to help HR departments visualize, analyze, and act on employee data across departments, job levels, genders, locations, nationalities, and more.
 
@@ -10,7 +10,7 @@ A powerful Power BI dashboard designed to help HR departments visualize, analyze
 
 ## 📌 Project Overview
 
-This interactive Power BI dashboard provides a **360° view of workforce data** to help Human Resources and Leadership answer key strategic questions such as:
+This interactive Power BI dashboard provides a **through view of workforce data** to help Human Resources and Leadership answer key strategic questions such as:
 
 ###  What problems are we solving for the HR Department?
 - 👨‍💼 **How are employees distributed across departments?**
