@@ -1,7 +1,7 @@
 # HR-Interactive-Dashboard
 # 📊 HR Interactive Dashboard
 
-A powerful Power BI dashboard designed to help HR departments visualize, analyze, and act on employee data across departments, job levels, genders, locations, nationalities, and more.
+A useful Power BI dashboard designed to help HR departments visualize, analyze, and act on employee data across departments, job levels, genders, locations, nationalities, and more.
 
 > 🔗 **Created by [Subodh Shahare](https://www.linkedin.com/in/subodhshahare)**  
 > 🌐 [Visit My Portfolio](https://subodh-s.my.canva.site/home)
