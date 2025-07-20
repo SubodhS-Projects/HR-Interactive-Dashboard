@@ -12,14 +12,23 @@ www.linkedin.com/in/subodhshahare
 📌 Project Overview
 
 This interactive Power BI dashboard provides a detailed view of workforce data to help Human Resources and Leadership answer key strategic questions such as:
+
 ❓ What problems are we solving for the HR Department?
+
 👨‍💼 How are employees distributed across departments?
+
 🧑‍🔧 Are we hiring more entry-level or experienced professionals?
+
 👩‍👧 Is there a gender balance across teams?
+
 🌎 How diverse is our workforce in terms of nationality and religion?
+
 🏙️ How many office locations do we operate in?
+
 🧑‍💻 What is the total number of active employees across the organization?
+
 🔄 Do we have enough representation at senior levels?
+
 By answering these questions, HR leaders can make data-driven decisions to improve workforce planning, DEI initiatives, and organizational alignment.
 
 🛠️ Tools & Technologies
